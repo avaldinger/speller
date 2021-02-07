@@ -10,7 +10,7 @@ Table of content
 
 ### General info
 
-Speller program written in C. The aim of the application is to check whether the words in a given text can be found in the dictionary uploaded to the application. During the problem set I had to implement the functions for the actual filters: **load**, **hash**, **size**, **check** and **unload** in the `dictionary.c` file. (Application efficiency could be improved by using fgetc() to read in files and appending new words to the beginning of each linked list rather than to as a new last node.)
+Speller program written in C. The aim of the application is to check whether the words in a given text can be found in the dictionary uploaded to the application. During the problem set I had to implement the functions for the actual filters: **load**, **hash**, **size**, **check** and **unload** in the `dictionary.c` file. (Application efficiency could be improved by using `fgetc()` to read in files and appending new words to the beginning of each linked list rather than to as a new last node.)
 
 ### Setup
 
