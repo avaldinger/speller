@@ -1,5 +1,4 @@
 # Speller
-==== 
 
 Speller application written in C as part of the [![CS50 Badge](https://img.shields.io/badge/-CS50-red)](https://cs50.harvard.edu) class problem sets.
 
